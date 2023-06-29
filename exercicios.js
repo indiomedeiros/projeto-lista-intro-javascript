@@ -10,6 +10,7 @@ function soma(num1, num2) {
 // EXERCÍCIO 0B
 function imprimeMensagem() {
   // implemente sua lógica aqui
+  
   const mensagem = prompt('Digite uma mensagem!')
 
   console.log(mensagem)
